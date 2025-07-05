@@ -1,3 +1,0 @@
-LIF_Neuron_Model/Subsystem/Compare To Constant --> Compare_To_Constant
-LIF_Neuron_Model/Subsystem --> Subsystem
-LIF_Neuron_Model --> LIF_Neuron_Model
